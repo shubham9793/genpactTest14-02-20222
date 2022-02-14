@@ -17,7 +17,7 @@ class WeightLimitExceeded extends Exception{
 
 
 
-class TestAssignment__6 {
+class TestAssignment__5 {
 	
     void WeightAllowed(int w) throws WeightLimitExceeded{
         if(w>15)
@@ -29,7 +29,7 @@ class TestAssignment__6 {
     public static void main(String[] args) {
 		// TODO Auto-generated method stub
     	
-    	TestAssignment__6 a=new TestAssignment__6();
+    	TestAssignment__6 a=new TestAssignment__5();
     	System.out.println("Enter your luggage weight ");
     	
         Scanner sc=new Scanner(System.in);
