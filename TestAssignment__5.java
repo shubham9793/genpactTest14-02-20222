@@ -29,7 +29,7 @@ class TestAssignment__5 {
     public static void main(String[] args) {
 		// TODO Auto-generated method stub
     	
-    	TestAssignment__6 a=new TestAssignment__5();
+    	TestAssignment__5 a = new TestAssignment__5();
     	System.out.println("Enter your luggage weight ");
     	
         Scanner sc=new Scanner(System.in);
